@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
+  <app appid="hmebcnadcmemihglnickgamnbocpfcgm"> <!-- 插件ID：在扩展程序页面→插件详情→URL中获取（extension/后一串字符） -->
+    <!-- codebase：新版.crx的下载地址；version：新版版本号（需比旧版高） -->
+    <updatecheck codebase="http://127.0.0.1:9999/dist.crx" version="1.0.1" />
+  </app>
+</gupdate>
